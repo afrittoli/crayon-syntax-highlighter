@@ -1,0 +1,19 @@
+{
+  "name": "afrittoli/crayon-syntax-highlighter",
+  "description": "WordPress plugin to highlight source code",
+  "type": "wordpress-plugin",
+  "license": "GPL3",
+  "authors": [
+    {
+      "name": "Andrea Frittoli",
+      "email": "andrea.frittoli@gmail.com"
+    },
+    {
+      "name": "Aram Kocharyan",
+      "email": "idontknow@email.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
